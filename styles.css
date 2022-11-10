@@ -1,0 +1,51 @@
+h1{color:#33F6FF;
+	margin: 35px;
+	width: 260;
+	margin: 10px auto;
+	text-align: center;
+	font-family: 'Anek Latin', sans-serif;
+	border: 5px solid gold;}
+h2{border: 8px solid gold;
+	background-color: #EA442A;
+	padding: 30px;
+	text-align: center;
+	width: 250px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Bangers', cursive;
+	border-radius: 5px;
+	font-size: 2.2em;}
+h3{margin: 0 auto;
+	text-align: center;
+	font-family: 'Homemade Apple', cursive;
+	color: #000000;
+	font-size: 2.0em;}
+h4{margin: 0 auto;
+	text-align: center;
+	font-family: 'Homemade Apple', cursive;
+	color: #000000;
+	font-size: 2.0em;
+	color: #1BC4AA;}
+h5{color: #5A00C6;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Tangerine', cursive;
+	font-size: 2.5em;}
+h6{font-size: 1.0em;}
+h7{font-size: 1.7em;
+	color: #FFFFFF;}
+h9{font-size: 1.7em;
+	color: #FFFFFF;}
+a{text-decoration: none;
+	color: #FF3C19;
+	font-size: 2.4em;
+	font-family: 'Marck Script', cursive;}
+p.attribution{font-size: 0.7em;}
+body{background-image: url(https://wallpapercave.com/wp/wp4452963.png);
+	margin: 0 auto;}
+.column{float: left;
+		width: 30%;
+		margin: 190px;}
+.row:after{
+	content: "";
+	display: table;}

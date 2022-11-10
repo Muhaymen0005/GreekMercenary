@@ -1,0 +1,24 @@
+h1{font-family: 'Island Moments', cursive;
+	text-align: center;
+	font-size: 3.5em;}
+h2{font-family: 'Island Moments', cursive;
+	text-align: center;
+	font-size: 2.0em;}
+h3{font-family: 'Island Moments', cursive;
+	font-size: 1.0em;}
+h4{font-family: 'Island Moments', cursive;
+	font-size: 1.0em;}
+h5{text-align: center;}
+h6{font-family: 'Island Moments', cursive;
+	font-size: 1.5em;}
+a{font-family: 'Island Moments', cursive;
+	font-size: 2.0em;
+	color: #DD6400;}
+body{background-image: url(https://wallpapercave.com/w/wp4452941.jpg);
+	margin: 0 auto;}
+.column{float: left;
+		width: 30%;
+		margin: 90px;}
+.row:after{
+	content: "";
+	display: table;}

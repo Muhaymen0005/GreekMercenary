@@ -1,0 +1,22 @@
+h1{font-family: 'Charmonman', cursive;
+	text-align: center;
+	font-size: 1.5em;
+	color: #D2AC47;}
+h2{font-family: 'Charmonman', cursive;
+	text-align: center;
+	font-size: 2.5em;}
+h3{font-family: 'Charmonman', cursive;
+	text-align: center;
+	font-size: 2.0em;
+	color: #7851a9;}
+a{font-family: 'Charmonman', cursive;
+	font-size: 1.5em;
+	color: #D2AC47;}
+body{background-image: url(https://live.staticflickr.com/1757/28903431258_4eea1394a2_k.jpg);
+	margin: 0 auto;}
+.column{float: left;
+		width: 30%;
+		margin: 120px;}
+.row:after{
+	content: "";
+	display: table;}
